@@ -14,7 +14,7 @@ author:
   avatar           : "profile.png" # Place your profile photo named 'profile.png' in your repository assets/images/
   name             : "Jinghui Yuan"
   pronouns         : # example: "he/him"  
-  bio              : "M.S. Student at NWPU.<br>Focusing on DNN optimization & ML theory.<br><br><b>Email:</b> yuanjh@mail.nwpu.edu.cn<br><b>GitHub:</b> <a href='https://github.com/Yuan-Jinghui' style='text-decoration: underline;'>github.com/Yuan-Jinghui</a>"
+  bio              : "M.S. Student at NWPU.<br>Focusing on DNN optimization & ML theory."
   location         : "Xi'an, China"
   employer         : "Northwestern Polytechnical University"
   uri              : # URL
