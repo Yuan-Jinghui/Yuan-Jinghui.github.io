@@ -41,3 +41,7 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+/* 隐藏网页底部页脚方框 */
+.page__footer {
+  display: none !important;
+}
