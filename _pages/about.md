@@ -1,3 +1,9 @@
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 About me
 =======
 I am a Master's student at the School of Artificial Intelligence, Optics and Electronics (iOPEN), [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/), where I also received my B.E. degree in Automation (NWPU) in 2024. My research interests primarily lie in **efficient optimization algorithms for deep neural networks** and **machine learning theory**. Previously, I spent a wonderful time as a Machine Learning Research Intern at TeleAI.
